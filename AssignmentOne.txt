@@ -1,0 +1,32 @@
+Mai E. Moua
+CSc 544 - Data Visualization
+August 21, 2017
+Assignment 1
+
+1. I want to learn about how Data Visualization is an important concept in the Computer Science field.
+
+2. I have never experienced d3, and this might give me a good opportunity to learn d3.
+
+3. PHP, JavaScript, Java, C, C++
+
+4. PHP, JavaScript, Java
+
+5. In my undergraduate introductory course to Computer Science, we were required to create an election map. 
+
+6. No Answer
+
+7. Although we have discussed this on the first day of class, the best visualization I have ever seen is the Periodic Table. The periodic table organized its 
+
+8. The worst visualization I've ever seen is during my six months as a Web Developer. I disliked the tables (it used bootstrap) because it caused the page to load slow. And sometimes the data did not align with each other, making it difficult to comprehend which column belongs to which column.
+
+9. No Answer
+
+10. No Answer
+
+11. I used version control as a Web Developer, intern at UW-Parkside, and for my all my assignment last week.
+
+12. I use a laptop that uses Windows 10 as its Operating System. I don't like to navigate the laptop using the Command Prompt because I am more comfortable using Unix commands. I downloaded Git as an alternative terminal to navigate around my laptop and to remotely access different server. 
+
+13. I have some experience with GitHub. As a Web Developer, we used Phabricator (which is similar to GitHub) and I used GitHub as an intern and for my assignments last semester.
+
+14. I was brought up in a small city in Wisconsin. My parents were protective of me and my siblings, so we never really knew anything about this city. This summer I began to explore the small city I was raised and discovered many different restaurants in the city.
