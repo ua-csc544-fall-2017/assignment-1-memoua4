@@ -1,0 +1,32 @@
+Mai Moua
+CSc 455 - Data Visualization 
+August 30th, 2017
+Assignment 1
+
+1) I want to learn how data visualization is an important concept in Computer Science. 
+
+2) I hope the course will answer how data visualization is an important concept in Computer Science. Since we are using the web browser to develop our projects, I hope this will give me an opportunity to learn more about JavaScript, HTML5, and d3. 
+
+3) Java, JavaScript, PHP, C, C++
+
+4) Java, JavaScript, PHP
+
+5) In one of my undergraduate introductory courses in Computer Science, the class was required to create an election map (given all the latitudes and longitudes of the United States). The language used to implement this project was Java. Along with creating the election map for the United States, we created an election map for the following states: Wisconsin, Minnesota, and Illinois. 
+
+6) no answer 
+
+7) I like the periodic table. The visualization provided plenty of information. It is simple to navigate and consume the information. I appreciate how the data is well laid out. 
+
+8) The worst visualization I've ever seen would be the generated information table for clients when I was a Web Developer. The table was too large (width-wise) and sometimes the columns did not align with each other. 
+
+9) no answer
+
+10) no answer 
+
+11) I used version control when I was a Web Developer intern and Web Developer, and last semester's assignment. 
+
+12) I am not comfortable with Windows command prompt. I use Git as an alternative terminal to navigate around my computer. I also use Git for version control purposes. 
+
+13) I used GitHub for last semester's assignment, and a similar tool to GitHub when I was a Web Developer. I know how to clone repositories, pull, push, merge,  and create, delete, and merge branches. I know the simple commands. Although, I have no idea how to use the GitHub interface because I never download the interface. 
+
+14) During the summer, I went home to visit some friends. After a long descriptive talk about the place I used to work, a friend proceeded to tell me the entire story line of Kingdom Hearts. I accepted an intern position (that did not pertain to Computer Science) and learned more about myself as a presenter. There are different ways I can present myself to a stranger. 
